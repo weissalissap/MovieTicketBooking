@@ -6,3 +6,6 @@
 
 ## Database design
 <img width="526" alt="Screenshot 2023-10-15 at 12 26 43 AM" src="https://github.com/weissalissap/MovieTicketBooking/assets/48016076/3bc15ca4-792e-4974-9d7e-a76ee639aa0b">
+
+## Swagger API sheet
+[Swagger UI.pdf](https://github.com/weissalissap/MovieTicketBooking/files/12923423/Swagger.UI.pdf)
